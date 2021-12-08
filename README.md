@@ -1,6 +1,7 @@
-# DoneWithIt application
+# Done With It application
 
 -This project is based on The Ultimate React Native Series course made by [Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-react-native-course)
+</br>
 -The backend of this project was ready and the server was up and running on my laptop.
 
 ## Content of this course :
